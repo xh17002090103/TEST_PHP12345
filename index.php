@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Hello £¬I¡¯m F J";
+echo "Hello ï¿½ï¿½Iï¿½ï¿½m F J";
 
-
+echo"6666";
 ?>
